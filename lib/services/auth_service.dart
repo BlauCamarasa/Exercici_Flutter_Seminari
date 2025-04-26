@@ -47,4 +47,5 @@ class AuthService {
     isLoggedIn = false; // Cambia el estado de autenticación a no autenticado
     print("Sessió tancada");
   }
+
 }

@@ -75,4 +75,5 @@ class UserService {
       throw Exception('Error eliminant usuari: ${response.statusCode}');
     }
   }
+
 }
